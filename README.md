@@ -21,4 +21,4 @@
 
 ## 📫 Connect
 - X: @VCAstar
-- LinkedIn: Vicky Lu|AutoUnicorn
+- LinkedIn: Vicky Lu | AutoUnicorn
