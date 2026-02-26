@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm AutoUnicorn 🦄
 
-<!--
-**AutoUnicorn/AutoUnicorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Automation Expert in Training
 
-Here are some ideas to get you started:
+> Building the future with AI automation, 
+> one workflow at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools I Use
+- 🔵 n8n — Enterprise automation
+- 🟣 Make — Cloud automation  
+- 🌐 Next.js — Web development
+- 🤖 Claude API — AI integration
+
+## 🚀 Current Projects
+- 🌤️ Daily Weather Automation (n8n + Make)
+- 📊 Auto Google Sheets Logger
+- 🌐 Portfolio Website
+
+## 🌐 Portfolio
+[autounicorn.vercel.app](https://my-portfolio-theta-swart-37.vercel.app)
+
+## 📫 Connect
+- X: @VCAstar
+- LinkedIn: Vicky Lu|AutoUnicorn
