@@ -22,3 +22,4 @@
 ## 📫 Connect
 - X: @VCAstar
 - LinkedIn: Vicky Lu | AutoUnicorn
+- Email: vickylu.art@gmail.com
